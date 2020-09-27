@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<linden_genepool version="1.0" metaversion="1.0">
+  <meta gridnick="osgrid" date="2020-08-30T11:25:52Z" />
+  <archetype name="jacket">
+    <meta path="Clothing/0000-shirt" name="0000-shirt" description="" />
+    <param id="606" name="sleeve length" value="0.4" u8="102" type="param_driver" wearable="jacket" />
+    <param id="607" name="collar front" value="0.8" u8="204" type="param_driver" wearable="jacket" />
+    <param id="608" name="bottom length lower" value="0.5" u8="127" type="param_driver" wearable="jacket" />
+    <param id="609" name="open jacket" value="0.28" u8="71" type="param_driver" wearable="jacket" />
+    <param id="620" name="bottom length upper" value="0.5" u8="127" type="param_alpha" wearable="jacket" />
+    <param id="621" name="bottom length lower" value="0.5" u8="127" type="param_alpha" wearable="jacket" />
+    <param id="622" name="open upper" value="0.278431" u8="71" type="param_alpha" wearable="jacket" />
+    <param id="623" name="open lower" value="0.278431" u8="71" type="param_alpha" wearable="jacket" />
+    <param id="780" name="collar back" value="0.8" u8="204" type="param_driver" wearable="jacket" />
+    <param id="809" name="lower_jacket_red" value="1" u8="255" type="param_color" wearable="jacket" />
+    <param id="810" name="lower_jacket_green" value="1" u8="255" type="param_color" wearable="jacket" />
+    <param id="811" name="lower_jacket_blue" value="1" u8="255" type="param_color" wearable="jacket" />
+    <param id="831" name="upper_jacket_red" value="1" u8="255" type="param_color" wearable="jacket" />
+    <param id="832" name="upper_jacket_green" value="1" u8="255" type="param_color" wearable="jacket" />
+    <param id="833" name="upper_jacket_blue" value="1" u8="255" type="param_color" wearable="jacket" />
+    <param id="834" name="jacket_red" value="1" u8="255" type="param_driver" wearable="jacket" />
+    <param id="835" name="jacket_green" value="1" u8="255" type="param_driver" wearable="jacket" />
+    <param id="836" name="jacket_blue" value="1" u8="255" type="param_driver" wearable="jacket" />
+    <param id="875" name="jacket upper wrinkles" value="0" u8="0" type="param_color" wearable="jacket" />
+    <param id="876" name="jacket upper wrinkles" value="0" u8="0" type="param_color" wearable="jacket" />
+    <param id="877" name="jacket wrinkles" value="0" u8="0" type="param_driver" wearable="jacket" />
+    <param id="1019" name="jacket sleeve length bump" value="0.4" u8="102" type="param_alpha" wearable="jacket" />
+    <param id="1020" name="jacket sleeve length" value="0.4" u8="102" type="param_alpha" wearable="jacket" />
+    <param id="1021" name="jacket collar front bump" value="0.8" u8="204" type="param_alpha" wearable="jacket" />
+    <param id="1022" name="jacket collar front" value="0.8" u8="204" type="param_alpha" wearable="jacket" />
+    <param id="1023" name="jacket collar back bump" value="0.8" u8="204" type="param_alpha" wearable="jacket" />
+    <param id="1024" name="jacket collar back" value="0.8" u8="204" type="param_alpha" wearable="jacket" />
+    <param id="1025" name="jacket bottom length upper bump" value="0.5" u8="127" type="param_alpha" wearable="jacket" />
+    <param id="1026" name="jacket open upper bump" value="0.278431" u8="71" type="param_alpha" wearable="jacket" />
+    <param id="1027" name="jacket bottom length lower bump" value="0.5" u8="127" type="param_alpha" wearable="jacket" />
+    <param id="1028" name="jacket open lower bump" value="0.278431" u8="71" type="param_alpha" wearable="jacket" />
+    <param id="1033" name="jacket bottom length lower bump" value="0.5" u8="127" type="param_alpha" wearable="jacket" />
+    <param id="1034" name="jacket open lower bump" value="0.278431" u8="71" type="param_alpha" wearable="jacket" />
+    <param id="1037" name="jacket bottom length upper bump" value="0.5" u8="127" type="param_alpha" wearable="jacket" />
+    <param id="1038" name="jacket open upper bump" value="0.278431" u8="71" type="param_alpha" wearable="jacket" />
+    <param id="1039" name="jacket sleeve length bump" value="0.4" u8="102" type="param_alpha" wearable="jacket" />
+    <param id="1040" name="jacket collar front bump" value="0.8" u8="204" type="param_alpha" wearable="jacket" />
+    <param id="1041" name="jacket collar back bump" value="0.8" u8="204" type="param_alpha" wearable="jacket" />
+    <texture te="13" uuid="3999622e-bbd5-4116-8d4a-450a3bc05417" />
+    <texture te="14" uuid="5748decc-f629-461c-9a36-a35a221fe21f" />
+  </archetype>
+</linden_genepool>

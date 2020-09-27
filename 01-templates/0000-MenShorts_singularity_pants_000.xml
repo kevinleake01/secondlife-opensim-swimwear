@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<linden_genepool version="1.0" metaversion="1.0">
+  <meta gridnick="osgrid" date="2020-08-30T11:26:23Z" />
+  <archetype name="pants">
+    <meta path="Clothing/0000-shorts" name="0000-shorts" description="" />
+    <param id="160" name="shading" value="0" u8="0" type="param_color" wearable="pants" />
+    <param id="516" name="displace_loose_lowerbody" value="0.35" u8="89" type="param_morph" wearable="pants" />
+    <param id="614" name="waist height cloth" value="1" u8="255" type="param_alpha" wearable="pants" />
+    <param id="615" name="pants length cloth" value="0.277778" u8="70" type="param_alpha" wearable="pants" />
+    <param id="625" name="leg_pantflair" value="0" u8="0" type="param_morph" wearable="pants" />
+    <param id="638" name="low_crotch" value="0" u8="0" type="param_morph" wearable="pants" />
+    <param id="793" name="leg_longcuffs" value="0" u8="0" type="param_morph" wearable="pants" />
+    <param id="806" name="pants_red" value="1" u8="255" type="param_color" wearable="pants" />
+    <param id="807" name="pants_green" value="1" u8="255" type="param_color" wearable="pants" />
+    <param id="808" name="pants_blue" value="1" u8="255" type="param_color" wearable="pants" />
+    <param id="814" name="waist height" value="1" u8="255" type="param_driver" wearable="pants" />
+    <param id="815" name="pants length" value="0.25" u8="63" type="param_driver" wearable="pants" />
+    <param id="816" name="loose lower clothing" value="0.35" u8="89" type="param_driver" wearable="pants" />
+    <param id="869" name="pants wrinkles" value="0" u8="0" type="param_color" wearable="pants" />
+    <param id="913" name="lower clothes shading" value="0.625" u8="159" type="param_color" wearable="pants" />
+    <param id="914" name="waist height shadow" value="1" u8="255" type="param_alpha" wearable="pants" />
+    <param id="915" name="pants length shadow" value="0.297778" u8="72" type="param_alpha" wearable="pants" />
+    <param id="1017" name="waist height cloth" value="1" u8="255" type="param_alpha" wearable="pants" />
+    <param id="1018" name="pants length cloth" value="0.277778" u8="70" type="param_alpha" wearable="pants" />
+    <param id="1035" name="waist height cloth" value="1" u8="255" type="param_alpha" wearable="pants" />
+    <param id="1036" name="pants length cloth" value="0.277778" u8="70" type="param_alpha" wearable="pants" />
+    <texture te="2" uuid="3df0e1c8-19a4-4a07-a157-d39c8ddc6201" />
+  </archetype>
+</linden_genepool>

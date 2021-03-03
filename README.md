@@ -17,7 +17,8 @@ The contents are as follows:<br>
 <br>
 <br>
 For the human skins go to the Ruth and Roth Project at:<br>
-https://github.com/RuthAndRoth/Skins<br>
+https://github.com/RuthAndRoth/Skins or<br>
+https://github.com/kevinleake01/ruth-and-roth-skins<br>
 <br>
 <br>
 The clothing templates can be found on the Secondlife Marketplace at:<br>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<linden_genepool version="1.0" metaversion="1.0">
+  <meta gridnick="local" date="2021-03-07T09:22:55Z" />
+  <archetype name="undershirt">
+    <meta path="Clothing/0000-womenbktop" name="0000-womenbktop" description="" />
+    <param id="603" name="sleeve length" value="0.01" u8="0" type="param_driver" wearable="undershirt" />
+    <param id="604" name="bottom" value="0" u8="0" type="param_driver" wearable="undershirt" />
+    <param id="605" name="collar front" value="0" u8="0" type="param_driver" wearable="undershirt" />
+    <param id="779" name="collar back" value="0.4" u8="102" type="param_driver" wearable="undershirt" />
+    <param id="821" name="undershirt_red" value="0" u8="0" type="param_color" wearable="undershirt" />
+    <param id="822" name="undershirt_green" value="1" u8="255" type="param_color" wearable="undershirt" />
+    <param id="823" name="undershirt_blue" value="0" u8="0" type="param_color" wearable="undershirt" />
+    <param id="1042" name="sleeve length" value="0.01" u8="0" type="param_alpha" wearable="undershirt" />
+    <param id="1043" name="sleeve length bump" value="0.01" u8="0" type="param_alpha" wearable="undershirt" />
+    <param id="1044" name="bottom" value="0" u8="0" type="param_alpha" wearable="undershirt" />
+    <param id="1045" name="bottom bump" value="0" u8="0" type="param_alpha" wearable="undershirt" />
+    <param id="1046" name="collar front" value="0" u8="0" type="param_alpha" wearable="undershirt" />
+    <param id="1047" name="collar front bump" value="0" u8="0" type="param_alpha" wearable="undershirt" />
+    <param id="1048" name="collar back" value="0.4" u8="102" type="param_alpha" wearable="undershirt" />
+    <param id="1049" name="collar back bump" value="0.4" u8="102" type="param_alpha" wearable="undershirt" />
+    <texture te="16" uuid="5748decc-f629-461c-9a36-a35a221fe21f" />
+  </archetype>
+</linden_genepool>

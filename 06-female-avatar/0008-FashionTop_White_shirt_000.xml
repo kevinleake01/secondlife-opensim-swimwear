@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<linden_genepool version="1.0" metaversion="1.0">
+  <meta gridnick="local" date="2021-03-07T09:49:17Z" />
+  <archetype name="shirt">
+    <meta path="Clothing/0000-womenfashtop" name="0000-womenfashtop" description="" />
+    <param id="600" name="sleeve length cloth" value="0.476" u8="142" type="param_alpha" wearable="shirt" />
+    <param id="601" name="shirt bottom cloth" value="0.5" u8="127" type="param_alpha" wearable="shirt" />
+    <param id="602" name="collar front height cloth" value="0.7" u8="178" type="param_alpha" wearable="shirt" />
+    <param id="628" name="displace_loose_upperbody" value="0.22" u8="56" type="param_morph" wearable="shirt" />
+    <param id="778" name="collar back height cloth" value="0.78" u8="198" type="param_alpha" wearable="shirt" />
+    <param id="781" name="collar back" value="0.78" u8="198" type="param_driver" wearable="shirt" />
+    <param id="800" name="sleeve length" value="0.56" u8="142" type="param_driver" wearable="shirt" />
+    <param id="801" name="shirt bottom" value="0.5" u8="127" type="param_driver" wearable="shirt" />
+    <param id="802" name="collar front" value="0.7" u8="178" type="param_driver" wearable="shirt" />
+    <param id="803" name="shirt_red" value="1" u8="255" type="param_color" wearable="shirt" />
+    <param id="804" name="shirt_green" value="1" u8="255" type="param_color" wearable="shirt" />
+    <param id="805" name="shirt_blue" value="1" u8="255" type="param_color" wearable="shirt" />
+    <param id="828" name="loose upper clothing" value="0.22" u8="56" type="param_driver" wearable="shirt" />
+    <param id="840" name="shirtsleeve_flair" value="0.54" u8="91" type="param_morph" wearable="shirt" />
+    <param id="868" name="shirt wrinkles" value="0" u8="0" type="param_color" wearable="shirt" />
+    <param id="899" name="upper clothes shading" value="0.3" u8="76" type="param_color" wearable="shirt" />
+    <param id="900" name="sleeve length shadow" value="0.496" u8="142" type="param_alpha" wearable="shirt" />
+    <param id="901" name="shirt shadow bottom" value="0.52" u8="130" type="param_alpha" wearable="shirt" />
+    <param id="902" name="collar front shadow height" value="0.72" u8="182" type="param_alpha" wearable="shirt" />
+    <param id="903" name="collar back shadow height" value="0.8" u8="202" type="param_alpha" wearable="shirt" />
+    <param id="1013" name="sleeve length cloth" value="0.476" u8="142" type="param_alpha" wearable="shirt" />
+    <param id="1014" name="shirt bottom cloth" value="0.5" u8="127" type="param_alpha" wearable="shirt" />
+    <param id="1015" name="collar front height cloth" value="0.7" u8="178" type="param_alpha" wearable="shirt" />
+    <param id="1016" name="collar back height cloth" value="0.78" u8="198" type="param_alpha" wearable="shirt" />
+    <param id="1029" name="sleeve length cloth" value="0.476" u8="142" type="param_alpha" wearable="shirt" />
+    <param id="1030" name="shirt bottom cloth" value="0.5" u8="127" type="param_alpha" wearable="shirt" />
+    <param id="1031" name="collar front height cloth" value="0.7" u8="178" type="param_alpha" wearable="shirt" />
+    <param id="1032" name="collar back height cloth" value="0.78" u8="198" type="param_alpha" wearable="shirt" />
+    <texture te="1" uuid="5748decc-f629-461c-9a36-a35a221fe21f" />
+  </archetype>
+</linden_genepool>

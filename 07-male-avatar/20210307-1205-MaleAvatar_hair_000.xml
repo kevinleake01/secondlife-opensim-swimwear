@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<linden_genepool version="1.0" metaversion="1.0">
+  <meta gridnick="local" date="2021-03-07T12:04:29Z" />
+  <archetype name="hair">
+    <meta path="Body Parts/0000-hair" name="0000-hair" description="" />
+    <param id="16" name="pointy_eyebrows" value="0.41" u8="66" type="param_driver" wearable="hair" />
+    <param id="31" name="arced_eyebrows" value="0.74" u8="94" type="param_driver" wearable="hair" />
+    <param id="112" name="rainbow color" value="0" u8="0" type="param_color" wearable="hair" />
+    <param id="113" name="red hair" value="0" u8="0" type="param_color" wearable="hair" />
+    <param id="114" name="blonde hair" value="0.509804" u8="130" type="param_color" wearable="hair" />
+    <param id="115" name="white hair" value="0" u8="0" type="param_color" wearable="hair" />
+    <param id="119" name="eyebrow size" value="0.25" u8="63" type="param_driver" wearable="hair" />
+    <param id="130" name="front fringe" value="0.67" u8="170" type="param_driver" wearable="hair" />
+    <param id="131" name="side fringe" value="0" u8="0" type="param_driver" wearable="hair" />
+    <param id="132" name="back fringe" value="0.07" u8="17" type="param_driver" wearable="hair" />
+    <param id="133" name="hair front" value="0.34" u8="86" type="param_driver" wearable="hair" />
+    <param id="134" name="hair sides" value="0.38" u8="96" type="param_driver" wearable="hair" />
+    <param id="135" name="hair back" value="0.56" u8="142" type="param_driver" wearable="hair" />
+    <param id="136" name="hair sweep" value="0.17" u8="43" type="param_driver" wearable="hair" />
+    <param id="137" name="hair tilt" value="0.5" u8="127" type="param_driver" wearable="hair" />
+    <param id="140" name="hair_part_middle" value="0.44" u8="56" type="param_morph" wearable="hair" />
+    <param id="141" name="hair_part_right" value="0.4" u8="51" type="param_morph" wearable="hair" />
+    <param id="142" name="hair_part_left" value="0.4" u8="51" type="param_morph" wearable="hair" />
+    <param id="143" name="hair_sides_full" value="-0.7" u8="152" type="param_morph" wearable="hair" />
+    <param id="144" name="bangs_front_up" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="145" name="bangs_front_down" value="1.7" u8="86" type="param_morph" wearable="hair" />
+    <param id="146" name="bangs_sides_up" value="1" u8="255" type="param_morph" wearable="hair" />
+    <param id="147" name="bangs_sides_down" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="148" name="bangs_back_up" value="0.86" u8="219" type="param_morph" wearable="hair" />
+    <param id="149" name="bangs_back_down" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="166" name="sideburns" value="0.6" u8="153" type="param_driver" wearable="hair" />
+    <param id="167" name="moustache" value="0" u8="0" type="param_driver" wearable="hair" />
+    <param id="168" name="soulpatch" value="0" u8="0" type="param_driver" wearable="hair" />
+    <param id="169" name="chin curtains" value="0" u8="0" type="param_driver" wearable="hair" />
+    <param id="171" name="hair_front_down" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="172" name="hair_front_up" value="0.32" u8="81" type="param_morph" wearable="hair" />
+    <param id="173" name="hair_sides_down" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="174" name="hair_sides_up" value="0.24" u8="61" type="param_morph" wearable="hair" />
+    <param id="175" name="hair_back_down" value="0.36" u8="30" type="param_morph" wearable="hair" />
+    <param id="176" name="hair_back_up" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="177" name="hair_rumpled" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="178" name="hair_swept_back" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="179" name="hair_swept_forward" value="0.66" u8="168" type="param_morph" wearable="hair" />
+    <param id="180" name="hair_volume" value="1.3" u8="255" type="param_morph" wearable="hair" />
+    <param id="181" name="hair_big_front" value="0.18" u8="150" type="param_morph" wearable="hair" />
+    <param id="182" name="hair_big_top" value="0.44" u8="183" type="param_morph" wearable="hair" />
+    <param id="183" name="hair_big_back" value="-0.16" u8="107" type="param_morph" wearable="hair" />
+    <param id="184" name="hair_spiked" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="190" name="hair_tilt_right" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="191" name="hair_tilt_left" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="192" name="bangs_part_middle" value="0.72" u8="183" type="param_morph" wearable="hair" />
+    <param id="400" name="displace_hair_facial" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="640" name="hair_egg_head" value="0.38" u8="186" type="param_morph" wearable="hair" />
+    <param id="641" name="hair_squash_stretch_head" value="0" u8="85" type="param_morph" wearable="hair" />
+    <param id="642" name="hair_square_head" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="643" name="hair_round_head" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="644" name="hair_forehead_round" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="645" name="hair_forehead_slant" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="674" name="hair_shear_back" value="0.05" u8="89" type="param_morph" wearable="hair" />
+    <param id="750" name="eyebrow density" value="1" u8="255" type="param_driver" wearable="hair" />
+    <param id="751" name="5 o&apos;clock shadow" value="0.05" u8="12" type="param_color" wearable="hair" />
+    <param id="752" name="hair thickness" value="0.19" u8="48" type="param_driver" wearable="hair" />
+    <param id="754" name="hair_taper_back" value="0.68" u8="142" type="param_morph" wearable="hair" />
+    <param id="755" name="hair_taper_front" value="0.06" u8="132" type="param_morph" wearable="hair" />
+    <param id="757" name="lower_eyebrows" value="-0.58" u8="145" type="param_driver" wearable="hair" />
+    <param id="761" name="hair_volume_small" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="762" name="hair_shear_front" value="0.45" u8="38" type="param_morph" wearable="hair" />
+    <param id="763" name="hair volume" value="1" u8="255" type="param_driver" wearable="hair" />
+    <param id="771" name="elongate_head_hair" value="0" u8="127" type="param_morph" wearable="hair" />
+    <param id="774" name="shear_head_hair" value="0" u8="127" type="param_morph" wearable="hair" />
+    <param id="782" name="hair_pigtails_short" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="783" name="hair_pigtails_med" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="784" name="hair_pigtails_long" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="785" name="pigtails" value="0" u8="0" type="param_driver" wearable="hair" />
+    <param id="786" name="hair_ponytail_short" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="787" name="hair_ponytail_med" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="788" name="hair_ponytail_long" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="789" name="ponytail" value="0" u8="0" type="param_driver" wearable="hair" />
+    <param id="790" name="hair_pigtails_medlong" value="0" u8="0" type="param_morph" wearable="hair" />
+    <param id="870" name="pointy_eyebrows" value="-0.11" u8="66" type="param_morph" wearable="hair" />
+    <param id="871" name="lower_eyebrows" value="0.28" u8="145" type="param_morph" wearable="hair" />
+    <param id="872" name="arced_eyebrows" value="0.37" u8="94" type="param_morph" wearable="hair" />
+    <param id="1000" name="eyebrow size bump" value="0.247059" u8="63" type="param_alpha" wearable="hair" />
+    <param id="1001" name="eyebrow size" value="0.247059" u8="63" type="param_alpha" wearable="hair" />
+    <param id="1002" name="eyebrow density bump" value="1" u8="255" type="param_color" wearable="hair" />
+    <param id="1003" name="eyebrow density" value="1" u8="255" type="param_color" wearable="hair" />
+    <param id="1004" name="sideburns bump" value="0.6" u8="153" type="param_alpha" wearable="hair" />
+    <param id="1005" name="sideburns" value="0.6" u8="153" type="param_alpha" wearable="hair" />
+    <param id="1006" name="moustache bump" value="0" u8="0" type="param_alpha" wearable="hair" />
+    <param id="1007" name="moustache" value="0" u8="0" type="param_alpha" wearable="hair" />
+    <param id="1008" name="soulpatch bump" value="0" u8="0" type="param_alpha" wearable="hair" />
+    <param id="1009" name="soulpatch" value="0" u8="0" type="param_alpha" wearable="hair" />
+    <param id="1010" name="chin curtains bump" value="0" u8="0" type="param_alpha" wearable="hair" />
+    <param id="1011" name="chin curtains" value="0" u8="0" type="param_alpha" wearable="hair" />
+    <param id="1012" name="5 o&apos;clock shadow bump" value="1" u8="255" type="param_color" wearable="hair" />
+    <texture te="4" uuid="7ca39b4c-bd19-4699-aff7-f93fd03d3e7b" />
+  </archetype>
+</linden_genepool>

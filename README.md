@@ -15,6 +15,9 @@ The contents are as follows:<br>
 04-gallery-menswimbrief and<br>
 05-gallery-womenbikini -- A virtual photo shoot.<br>
 <br>
+06-female-avatar and<br>
+07-male-avatar -- Various XML assets created from the Singularity Viewer.<br>
+<br>
 <br>
 For the human skins go to the Ruth and Roth Project at:<br>
 https://github.com/RuthAndRoth/Skins or<br>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<linden_genepool version="1.0" metaversion="1.0">
+  <meta gridnick="local" date="2021-03-07T12:03:58Z" />
+  <archetype name="skin">
+    <meta path="Body Parts/0000-skin" name="0000-skin" description="" />
+    <param id="108" name="rainbow color" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="110" name="red skin" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="111" name="pigment" value="0.5" u8="127" type="param_color" wearable="skin" />
+    <param id="116" name="rosy complexion" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="117" name="lip pinkness" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="118" name="wrinkles" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="125" name="shading" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="126" name="shading" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="150" name="body definition" value="0" u8="0" type="param_driver" wearable="skin" />
+    <param id="158" name="shading" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="159" name="shading" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="161" name="shading" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="162" name="facial definition" value="0" u8="0" type="param_driver" wearable="skin" />
+    <param id="163" name="wrinkles" value="0" u8="0" type="param_driver" wearable="skin" />
+    <param id="165" name="freckles" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="700" name="lipstick color" value="0.25" u8="63" type="param_color" wearable="skin" />
+    <param id="701" name="lipstick" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="702" name="lipgloss" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="703" name="eyeliner" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="704" name="blush" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="705" name="blush color" value="0.5" u8="127" type="param_color" wearable="skin" />
+    <param id="706" name="out shdw opacity" value="0.6" u8="127" type="param_color" wearable="skin" />
+    <param id="707" name="outer shadow" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="708" name="out shdw color" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="709" name="inner shadow" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="710" name="nail polish" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="711" name="blush opacity" value="0.5" u8="127" type="param_color" wearable="skin" />
+    <param id="712" name="in shdw color" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="713" name="in shdw opacity" value="0.7" u8="159" type="param_color" wearable="skin" />
+    <param id="714" name="eyeliner color" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="715" name="nail polish color" value="0" u8="0" type="param_color" wearable="skin" />
+    <param id="775" name="body freckles" value="0" u8="0" type="param_driver" wearable="skin" />
+    <param id="776" name="freckles upper" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="777" name="freckles lower" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="873" name="bump base" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="874" name="bump upperdef" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <param id="878" name="bump upperdef" value="0" u8="0" type="param_alpha" wearable="skin" />
+    <texture te="0" uuid="c228d1cf-4b5d-4ba8-84f4-899a0796aa97" />
+    <texture te="5" uuid="c228d1cf-4b5d-4ba8-84f4-899a0796aa97" />
+    <texture te="6" uuid="c228d1cf-4b5d-4ba8-84f4-899a0796aa97" />
+  </archetype>
+</linden_genepool>

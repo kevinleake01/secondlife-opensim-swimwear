@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<linden_genepool version="1.0" metaversion="1.0">
+  <meta gridnick="local" date="2021-03-07T09:39:57Z" />
+  <archetype name="skirt">
+    <meta path="Clothing/0000-womenskirt" name="0000-womenskirt" description="" />
+    <param id="845" name="skirt_poofy" value="0" u8="0" type="param_morph" wearable="skirt" />
+    <param id="846" name="skirt_loose" value="1" u8="255" type="param_morph" wearable="skirt" />
+    <param id="847" name="skirt_bowlegs" value="0" u8="127" type="param_morph" wearable="skirt" />
+    <param id="848" name="skirt_bustle" value="0.2" u8="25" type="param_morph" wearable="skirt" />
+    <param id="849" name="skirt_belly" value="0" u8="0" type="param_morph" wearable="skirt" />
+    <param id="850" name="skirt_saddlebags" value="0" u8="36" type="param_morph" wearable="skirt" />
+    <param id="851" name="skirt_chubby" value="0" u8="0" type="param_morph" wearable="skirt" />
+    <param id="852" name="skirt_bigbutt" value="0" u8="0" type="param_morph" wearable="skirt" />
+    <param id="856" name="skirt_lovehandles" value="0" u8="85" type="param_morph" wearable="skirt" />
+    <param id="857" name="skirt_male" value="0" u8="0" type="param_morph" wearable="skirt" />
+    <param id="858" name="skirt length" value="0.5" u8="191" type="param_alpha" wearable="skirt" />
+    <param id="859" name="slit front" value="1" u8="255" type="param_alpha" wearable="skirt" />
+    <param id="860" name="slit back" value="1" u8="255" type="param_alpha" wearable="skirt" />
+    <param id="861" name="slit left" value="1" u8="255" type="param_alpha" wearable="skirt" />
+    <param id="862" name="slit right" value="1" u8="255" type="param_alpha" wearable="skirt" />
+    <param id="863" name="skirt_looseness" value="0.5" u8="127" type="param_driver" wearable="skirt" />
+    <param id="866" name="skirt_tight" value="0" u8="0" type="param_morph" wearable="skirt" />
+    <param id="867" name="skirt_smallbutt" value="0.166667" u8="42" type="param_morph" wearable="skirt" />
+    <param id="921" name="skirt_red" value="1" u8="255" type="param_color" wearable="skirt" />
+    <param id="922" name="skirt_green" value="1" u8="255" type="param_color" wearable="skirt" />
+    <param id="923" name="skirt_blue" value="1" u8="255" type="param_color" wearable="skirt" />
+    <texture te="18" uuid="5748decc-f629-461c-9a36-a35a221fe21f" />
+  </archetype>
+</linden_genepool>

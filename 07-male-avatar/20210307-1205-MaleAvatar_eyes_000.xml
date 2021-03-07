@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<linden_genepool version="1.0" metaversion="1.0">
+  <meta gridnick="local" date="2021-03-07T12:05:23Z" />
+  <archetype name="eyes">
+    <meta path="Body Parts/0000-eyes" name="0000-eyes" description="" />
+    <param id="98" name="eye lightness" value="0.239216" u8="61" type="param_color" wearable="eyes" />
+    <param id="99" name="eye color" value="0.337255" u8="86" type="param_color" wearable="eyes" />
+    <texture te="3" uuid="6522e74d-1660-4e7f-b601-6f48c1659a77" />
+  </archetype>
+</linden_genepool>

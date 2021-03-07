@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<linden_genepool version="1.0" metaversion="1.0">
+  <meta gridnick="local" date="2021-03-07T11:13:27Z" />
+  <archetype name="underpants">
+    <meta path="Clothing/0000-menswim" name="0000-menswim" description="" />
+    <param id="619" name="pants length" value="0" u8="0" type="param_driver" wearable="underpants" />
+    <param id="624" name="pants waist" value="0.46" u8="117" type="param_driver" wearable="underpants" />
+    <param id="824" name="underpants_red" value="0" u8="0" type="param_color" wearable="underpants" />
+    <param id="825" name="underpants_green" value="0" u8="0" type="param_color" wearable="underpants" />
+    <param id="826" name="underpants_blue" value="1" u8="255" type="param_color" wearable="underpants" />
+    <param id="1054" name="pants length" value="0" u8="0" type="param_alpha" wearable="underpants" />
+    <param id="1055" name="pants length" value="0" u8="0" type="param_alpha" wearable="underpants" />
+    <param id="1056" name="pants waist" value="0.46" u8="117" type="param_alpha" wearable="underpants" />
+    <param id="1057" name="pants waist" value="0.46" u8="117" type="param_alpha" wearable="underpants" />
+    <texture te="17" uuid="5748decc-f629-461c-9a36-a35a221fe21f" />
+  </archetype>
+</linden_genepool>

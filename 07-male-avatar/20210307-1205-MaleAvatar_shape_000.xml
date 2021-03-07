@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<linden_genepool version="1.0" metaversion="1.0">
+  <meta gridnick="local" date="2021-03-07T12:03:21Z" />
+  <archetype name="shape">
+    <meta path="Body Parts/0000-shape" name="0000-shape" description="" />
+    <param id="1" name="big_brow" value="0" u8="33" type="param_driver" wearable="shape" />
+    <param id="2" name="nose_big_out" value="0" u8="61" type="param_driver" wearable="shape" />
+    <param id="4" name="broad_nostrils" value="0" u8="85" type="param_driver" wearable="shape" />
+    <param id="5" name="cleft_chin" value="0" u8="23" type="param_morph" wearable="shape" />
+    <param id="6" name="bulbous_nose_tip" value="0" u8="58" type="param_driver" wearable="shape" />
+    <param id="7" name="weak_chin" value="0" u8="127" type="param_driver" wearable="shape" />
+    <param id="8" name="double_chin" value="0" u8="63" type="param_driver" wearable="shape" />
+    <param id="10" name="sunken_cheeks" value="0" u8="85" type="param_driver" wearable="shape" />
+    <param id="11" name="noble_nose_bridge" value="0" u8="63" type="param_driver" wearable="shape" />
+    <param id="12" name="jowls" value="0" u8="42" type="param_morph" wearable="shape" />
+    <param id="13" name="cleft_chin_upper" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="14" name="high_cheek_bones" value="0" u8="85" type="param_driver" wearable="shape" />
+    <param id="15" name="ears_out" value="0" u8="63" type="param_driver" wearable="shape" />
+    <param id="17" name="square_jaw" value="0.38" u8="149" type="param_driver" wearable="shape" />
+    <param id="18" name="puffy_upper_cheeks" value="0" u8="95" type="param_driver" wearable="shape" />
+    <param id="19" name="upturned_nose_tip" value="0" u8="153" type="param_driver" wearable="shape" />
+    <param id="20" name="bulbous_nose" value="0" u8="63" type="param_driver" wearable="shape" />
+    <param id="21" name="upper_eyelid_fold" value="0" u8="34" type="param_driver" wearable="shape" />
+    <param id="22" name="attached_earlobes" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="23" name="baggy_eyes" value="0" u8="63" type="param_driver" wearable="shape" />
+    <param id="24" name="wide_eyes" value="0.25" u8="127" type="param_driver" wearable="shape" />
+    <param id="25" name="wide_lip_cleft" value="0" u8="88" type="param_driver" wearable="shape" />
+    <param id="26" name="lips_thin" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="27" name="wide_nose_bridge" value="0" u8="132" type="param_driver" wearable="shape" />
+    <param id="28" name="lips_fat" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="29" name="wide_upper_lip" value="0.118182" u8="104" type="param_morph" wearable="shape" />
+    <param id="30" name="wide_lower_lip" value="0.118182" u8="104" type="param_morph" wearable="shape" />
+    <param id="32" name="male_skeleton" value="1" u8="255" type="param_skeleton" wearable="shape" />
+    <param id="33" name="height" value="-0.58" u8="101" type="param_skeleton" wearable="shape" />
+    <param id="34" name="thickness" value="0.18" u8="101" type="param_skeleton" wearable="shape" />
+    <param id="35" name="big_ears" value="0" u8="85" type="param_driver" wearable="shape" />
+    <param id="36" name="shoulders" value="0.34" u8="170" type="param_skeleton" wearable="shape" />
+    <param id="37" name="hip width" value="0" u8="136" type="param_skeleton" wearable="shape" />
+    <param id="38" name="torso length" value="0.78" u8="226" type="param_skeleton" wearable="shape" />
+    <param id="40" name="male_head" value="1" u8="255" type="param_morph" wearable="shape" />
+    <param id="80" name="male" value="1" u8="255" type="param_driver" wearable="shape" />
+    <param id="100" name="male_torso" value="1" u8="255" type="param_morph" wearable="shape" />
+    <param id="104" name="big_belly_torso" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="105" name="breast size" value="0.5" u8="127" type="param_driver" wearable="shape" />
+    <param id="106" name="muscular_torso" value="1.092" u8="198" type="param_morph" wearable="shape" />
+    <param id="107" name="muscular_torso" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="151" name="big_butt_legs" value="0.314286" u8="80" type="param_morph" wearable="shape" />
+    <param id="152" name="muscular_legs" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="153" name="male_legs" value="1" u8="255" type="param_morph" wearable="shape" />
+    <param id="155" name="lip width" value="0" u8="104" type="param_driver" wearable="shape" />
+    <param id="156" name="big_belly_legs" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="157" name="belly size" value="0" u8="0" type="param_driver" wearable="shape" />
+    <param id="185" name="deep_chin" value="-0.5" u8="63" type="param_driver" wearable="shape" />
+    <param id="186" name="egg_head" value="0.38" u8="186" type="param_morph" wearable="shape" />
+    <param id="187" name="squash_stretch_head" value="0" u8="85" type="param_morph" wearable="shape" />
+    <param id="188" name="square_head" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="189" name="round_head" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="193" name="head shape" value="0.5" u8="127" type="param_driver" wearable="shape" />
+    <param id="194" name="eye_spread" value="0.24" u8="142" type="param_morph" wearable="shape" />
+    <param id="195" name="eyebone_spread" value="0.12" u8="142" type="param_skeleton" wearable="shape" />
+    <param id="196" name="eye spacing" value="-0.32" u8="142" type="param_driver" wearable="shape" />
+    <param id="505" name="lip thickness" value="0.5" u8="127" type="param_driver" wearable="shape" />
+    <param id="506" name="mouth_height" value="0" u8="127" type="param_driver" wearable="shape" />
+    <param id="507" name="breast_gravity" value="0" u8="109" type="param_morph" wearable="shape" />
+    <param id="515" name="foot_size" value="0" u8="63" type="param_morph" wearable="shape" />
+    <param id="517" name="wide_nose" value="0" u8="85" type="param_driver" wearable="shape" />
+    <param id="518" name="eyelashes_long" value="0.26" u8="79" type="param_morph" wearable="shape" />
+    <param id="626" name="big_chest" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="627" name="small_chest" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="629" name="forehead angle" value="0.5" u8="127" type="param_driver" wearable="shape" />
+    <param id="630" name="forehead_round" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="631" name="forehead_slant" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="633" name="fat_head" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="634" name="fat_torso" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="635" name="fat_legs" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="637" name="body fat" value="0" u8="0" type="param_driver" wearable="shape" />
+    <param id="646" name="egg_head" value="0.38" u8="186" type="param_driver" wearable="shape" />
+    <param id="647" name="squash_stretch_head" value="0" u8="85" type="param_driver" wearable="shape" />
+    <param id="648" name="scrawny_torso" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="649" name="torso muscles" value="0.5" u8="127" type="param_driver" wearable="shape" />
+    <param id="650" name="eyelid_corner_up" value="0.4" u8="173" type="param_driver" wearable="shape" />
+    <param id="651" name="scrawny_legs" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="652" name="leg muscles" value="0.5" u8="127" type="param_driver" wearable="shape" />
+    <param id="653" name="tall_lips" value="0.32" u8="112" type="param_driver" wearable="shape" />
+    <param id="655" name="head size" value="-0.019" u8="168" type="param_skeleton" wearable="shape" />
+    <param id="656" name="crooked_nose" value="0" u8="127" type="param_driver" wearable="shape" />
+    <param id="657" name="smile_mouth" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="658" name="frown_mouth" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="659" name="mouth corner" value="0.5" u8="127" type="param_driver" wearable="shape" />
+    <param id="660" name="shear_head" value="0" u8="127" type="param_morph" wearable="shape" />
+    <param id="661" name="eyebone_head_shear" value="0" u8="127" type="param_skeleton" wearable="shape" />
+    <param id="662" name="face shear" value="0.5" u8="127" type="param_driver" wearable="shape" />
+    <param id="663" name="shift_mouth" value="0" u8="127" type="param_driver" wearable="shape" />
+    <param id="664" name="pop_eye" value="0" u8="127" type="param_morph" wearable="shape" />
+    <param id="665" name="jaw_jut" value="0" u8="127" type="param_driver" wearable="shape" />
+    <param id="675" name="hand size" value="0" u8="127" type="param_skeleton" wearable="shape" />
+    <param id="676" name="love_handles" value="0" u8="85" type="param_driver" wearable="shape" />
+    <param id="677" name="scrawny_torso_male" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="678" name="torso muscles" value="0.89" u8="226" type="param_driver" wearable="shape" />
+    <param id="679" name="eyeball_size" value="-0.019" u8="168" type="param_morph" wearable="shape" />
+    <param id="680" name="eyeball_size" value="-0.019" u8="168" type="param_morph" wearable="shape" />
+    <param id="681" name="eyeball_size" value="-0.019" u8="168" type="param_morph" wearable="shape" />
+    <param id="682" name="head size" value="0.66" u8="168" type="param_driver" wearable="shape" />
+    <param id="683" name="neck thickness" value="-0.15" u8="106" type="param_skeleton" wearable="shape" />
+    <param id="684" name="breast_female_cleavage" value="0" u8="47" type="param_morph" wearable="shape" />
+    <param id="685" name="chest_male_no_pecs" value="0" u8="79" type="param_morph" wearable="shape" />
+    <param id="686" name="head_eyes_big" value="0.0799999" u8="132" type="param_morph" wearable="shape" />
+    <param id="687" name="eyeball_size" value="0.00999999" u8="132" type="param_morph" wearable="shape" />
+    <param id="688" name="eyeball_size" value="0.00999999" u8="132" type="param_morph" wearable="shape" />
+    <param id="689" name="eyebone_big_eyes" value="0.04" u8="132" type="param_skeleton" wearable="shape" />
+    <param id="690" name="eye size" value="0.52" u8="132" type="param_driver" wearable="shape" />
+    <param id="691" name="eyeball_size" value="0.00999999" u8="132" type="param_morph" wearable="shape" />
+    <param id="692" name="leg length" value="0.86" u8="237" type="param_skeleton" wearable="shape" />
+    <param id="693" name="arm length" value="0.6" u8="204" type="param_skeleton" wearable="shape" />
+    <param id="694" name="eyeball_size" value="-0.019" u8="168" type="param_morph" wearable="shape" />
+    <param id="695" name="eyeball_size" value="0.00999999" u8="132" type="param_morph" wearable="shape" />
+    <param id="753" name="saddlebags" value="0" u8="36" type="param_driver" wearable="shape" />
+    <param id="756" name="neck length" value="0" u8="127" type="param_skeleton" wearable="shape" />
+    <param id="758" name="lower_bridge_nose" value="0" u8="127" type="param_driver" wearable="shape" />
+    <param id="759" name="low_septum_nose" value="0.5" u8="153" type="param_driver" wearable="shape" />
+    <param id="760" name="jaw_angle" value="0" u8="95" type="param_driver" wearable="shape" />
+    <param id="764" name="lip_cleft_deep" value="0" u8="74" type="param_driver" wearable="shape" />
+    <param id="765" name="puffy_lower_lids" value="0" u8="27" type="param_driver" wearable="shape" />
+    <param id="767" name="bug_eyed_head" value="0" u8="127" type="param_morph" wearable="shape" />
+    <param id="768" name="eyebone_bug" value="0" u8="127" type="param_skeleton" wearable="shape" />
+    <param id="769" name="eye depth" value="0.5" u8="127" type="param_driver" wearable="shape" />
+    <param id="770" name="elongate_head" value="0" u8="127" type="param_morph" wearable="shape" />
+    <param id="772" name="eyebone_head_elongate" value="0" u8="127" type="param_skeleton" wearable="shape" />
+    <param id="773" name="head length" value="0.5" u8="127" type="param_driver" wearable="shape" />
+    <param id="794" name="small_butt" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="795" name="butt size" value="0.52" u8="132" type="param_driver" wearable="shape" />
+    <param id="796" name="pointy_ears" value="0" u8="30" type="param_driver" wearable="shape" />
+    <param id="797" name="fat_upper_lip" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="798" name="fat_lower_lip" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="799" name="lip ratio" value="0.5" u8="127" type="param_driver" wearable="shape" />
+    <param id="841" name="bowed_legs" value="0" u8="127" type="param_driver" wearable="shape" />
+    <param id="842" name="hip length" value="0" u8="127" type="param_skeleton" wearable="shape" />
+    <param id="843" name="no_chest" value="0" u8="0" type="param_morph" wearable="shape" />
+    <param id="853" name="bowed_legs" value="0" u8="127" type="param_morph" wearable="shape" />
+    <param id="854" name="saddlebags" value="0" u8="36" type="param_morph" wearable="shape" />
+    <param id="855" name="love_handles" value="0" u8="85" type="param_morph" wearable="shape" />
+    <param id="879" name="male_package" value="0" u8="51" type="param_driver" wearable="shape" />
+    <param id="880" name="eyelid_inner_corner_up" value="0" u8="132" type="param_driver" wearable="shape" />
+    <param id="11001" name="hover" value="0" u8="127" type="param_skeleton" wearable="shape" />
+  </archetype>
+</linden_genepool>
